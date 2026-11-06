@@ -1,0 +1,4 @@
+# Fashion-MNIST CSV berukuran besar (>150MB), tidak di-commit agar repo tetap ringan.
+# Bisa di-download ulang dari http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/
+fashion-mnist_train.csv
+fashion-mnist_test.csv
